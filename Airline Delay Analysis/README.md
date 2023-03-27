@@ -6,9 +6,13 @@ Causes include; unpleasant weather, air traffic, maintenance problems, late arri
 ## Problem Statement
  The purpose of this project is to predict whether a flight will be delayed, from the information given.
  To tell a story about the flight experience.
- What the history of flight experiences has been in the past
- How bad wwere delayed flights.
- Identify patterns with delayed flights
- Recommendations
+ 
+ What the history of flight experiences has been in the past.
+ 
+ How much were flights delayed by.
+ 
+ Identify patterns with delayed flights.
+ 
+ Recommendations.
  ## Data Sourcing
  Data set was gotten from https://github.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/blob/main/Airline%20Project/Airlines.csv
