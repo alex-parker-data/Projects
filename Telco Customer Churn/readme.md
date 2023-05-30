@@ -20,7 +20,7 @@ Develop customer retention programs by analyzing the relationship between custom
 
 Changed Senior Citizens values from (0,1) to  
 
-![Image](screenshots/2023-05/EXCEL_L6nKx3djYr.png)
+![Image](screenshots/2023-05/EXCEL_ndb9UdweL5.png)
 
 (Yes, no) Using IF statement  
 
