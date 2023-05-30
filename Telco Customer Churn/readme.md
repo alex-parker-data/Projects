@@ -32,5 +32,6 @@ Develop customer retention programs by analyzing the relationship between custom
 
 Using a COUNTIF() statement to count how many cells don't contain "No"
 
-``` =COUNTIF(H2:O2, "<>*No*")
+``` 
+=COUNTIF(H2:O2, "<>*No*")
 ```
