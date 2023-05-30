@@ -16,6 +16,9 @@ The data set includes information about:
 
 Develop customer retention programs by analyzing the relationship between customer characteristics and their churn rate
 
-## Data cleaning
+## Data cleaning Steps
 
+Changed Senior Citizens values from (0,1) to 
 ![Image](screenshots/2023-05/EXCEL_P2YPn79FRc.png)
+(Yes, no) Using IF statement
+![Image](screenshots/2023-05/EXCEL_fFT9besdbI.png)
