@@ -18,10 +18,19 @@ Develop customer retention programs by analyzing the relationship between custom
 
 ## Data cleaning Steps
 
-Changed Senior Citizens values from (0,1) to  
+* Changed Senior Citizens values from (0,1) to  
 
 ![Image](screenshots/2023-05/EXCEL_ndb9UdweL5.png)
 
 (Yes, no) Using IF statement  
 
 ![Image](screenshots/2023-05/EXCEL_fFT9besdbI.png)
+
+* Added a "Number of Services" column that counts how many services the customer is subscribed to
+
+![Image](screenshots/2023-05/EXCEL_axjuF7tTMM.png)
+
+Using a COUNTIF() statement to count how many cells don't contain "No"
+
+``` =COUNTIF(H2:O2, "<>*No*")
+```
