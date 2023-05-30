@@ -18,6 +18,14 @@ Develop customer retention programs by analyzing the relationship between custom
 
 ## Data cleaning Steps
 
+* Finding null values in numeric columns
+If a column that represents numeric values (e.g. Monthly Charges) contains null values, it needs to be investigated
+Total Charges column has 11 rows that are missing values which also had a tenure value of 0. These contradictory rows were filtered for and deleted.
+![Image](screenshots/2023-05/EXCEL_NIoNdMJWEa.png)
+
+
+
+
 * Changed Senior Citizens values from (0,1) to  
 
 ![Image](screenshots/2023-05/EXCEL_ndb9UdweL5.png)
