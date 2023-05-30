@@ -18,4 +18,4 @@ Develop customer retention programs by analyzing the relationship between custom
 
 ## Data cleaning
 
-![Image](Telco Customer Churn/readme screenshots/2023-05/EXCEL_P2YPn79FRc.png)
+![Image](screenshots/2023-05/EXCEL_P2YPn79FRc.png)
