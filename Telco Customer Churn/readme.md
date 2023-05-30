@@ -18,4 +18,4 @@ Develop customer retention programs by analyzing the relationship between custom
 
 ## Data cleaning
 
-![Image]("https://github.com/alex-parker-data/Projects/blob/main/Telco%20Customer%20Churn/readme%20screenshots/2023-05/EXCEL_P2YPn79FRc.png")
+![Image]("https://raw.githubusercontent.com/alex-parker-data/Projects/main/Telco%20Customer%20Churn/readme%20screenshots/2023-05/EXCEL_P2YPn79FRc.png?token=GHSAT0AAAAAACAGAOAL36262NGZRZIII6NEZDVJGKQ")
