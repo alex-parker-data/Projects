@@ -41,3 +41,18 @@ Using a COUNTIF() statement to count how many cells don't contain "No"
 ``` 
 =COUNTIF(H2:O2, "<>*No*")
 ```
+
+Our data is sufficiently cleaned and ready for analysis
+
+
+## Exploratory Data Analysis
+
+We'll begin by making pivot tables to help visualize relationships between churn and other independent variables.
+
+Let's begin our investigation with Number of Services. 
+![Image](screenshots/2023-06/EXCEL_08xEyMygVe.png)
+With an R<sup>2</sup> value of 0.6259, we can say there's a moderately strong positive relationship. 
+Customers that more concurrent services are less likely to cancel their services. We can make the reccomendation to Telco to incentivize subscribing to more services by offering bundle discounts.
+
+
+
