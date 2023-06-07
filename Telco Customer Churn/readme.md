@@ -52,7 +52,20 @@ We'll begin by making pivot tables to help visualize relationships between churn
 Let's begin our investigation with Number of Services. 
 ![Image](screenshots/2023-06/EXCEL_08xEyMygVe.png)
 With an R<sup>2</sup> value of 0.6259, we can say there's a moderately strong positive relationship. 
-Customers that more concurrent services are less likely to cancel their services. We can make the reccomendation to Telco to incentivize subscribing to more services by offering bundle discounts.
+Customers that have more concurrent services are less likely to cancel their services. We can make the reccomendation to Telco to incentivize subscribing to more services by offering bundle discounts.
+
+
+Next we'll investigate if senior citizens are churning at a higher rate
+
+![Image](screenshots/2023-06/EXCEL_ozFMMSoCg3.png)
+
+We can see that the proportion of seniors churned is double that of non-seniors. A reccomendation we can make to Telco is to offer senoir citizen discounts
+
+As a final example, lets investigate Contract length
+
+![Image](screenshots/2023-06/EXCEL_ZzbL81YeRy.png)
+
+We can see that of the customers that churned, the overwhelming majority had a month-to-month contract. We can make a reccomendation to Telco to offer better discounts for signing up for yearly contracts
 
 
 
